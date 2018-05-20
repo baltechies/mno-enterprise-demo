@@ -6,10 +6,10 @@
   version "1.6.10"
   resolved "git+https://git@github.com/maestrano/impac-angular.git#79df9fca8bcf4b5b09ab2edb4b18c461c5700bd1"
 
-"mno-enterprise-angular@git+https://git@github.com/maestrano/mno-enterprise-angular.git#2.0":
+"mno-enterprise-angular@https://github.com/NickenChuggets/mno-enterprise-angular.git#feature/1007-marketplace-filtering-improvement":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mno-enterprise-angular.git#35a06199cb69f356f3c9371985bd445f66e0545c"
+  resolved "https://github.com/NickenChuggets/mno-enterprise-angular.git#2faeb7a9c05ff6ff4241a9fb24c173466bc9ad37"
 
 "mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#cce7d8b0018086c11766d61b305f5638b6996328"
+  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#ec4698fc52321907ce4e6059983b963a542cdaf1"
