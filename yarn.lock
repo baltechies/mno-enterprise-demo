@@ -8,8 +8,8 @@
 
 "mno-enterprise-angular@https://github.com/RidaAhmad/mno-enterprise-angular.git#mnoe-1135":
   version "2.0.0-dev"
-  resolved "https://github.com/RidaAhmad/mno-enterprise-angular.git#3e6133e69f5390fd8884bfcf495c3f9dab83dfd3"
+  resolved "https://github.com/RidaAhmad/mno-enterprise-angular.git#05c183534cc4aa28427e59cfa9509a9b5564e0e4"
 
 "mnoe-admin-panel@https://github.com/RidaAhmad/mnoe-admin-panel.git#mnoe-1135":
   version "2.0.0-dev"
-  resolved "https://github.com/RidaAhmad/mnoe-admin-panel.git#8d17d8cc52cd2be4aeb1db3d959822a3fccbf86a"
+  resolved "https://github.com/RidaAhmad/mnoe-admin-panel.git#cce8d3b2298c4cf22ad55738bec8eecfa16e612c"
