@@ -6,10 +6,10 @@
   version "1.6.10"
   resolved "git+https://git@github.com/maestrano/impac-angular.git#79df9fca8bcf4b5b09ab2edb4b18c461c5700bd1"
 
-"mno-enterprise-angular@https://github.com/maestrano/mno-enterprise-angular.git#2.0":
+"mno-enterprise-angular@https://github.com/iseessel/mno-enterprise-angular.git#1166/max-licenses-ui-improvements":
   version "2.0.0-dev"
-  resolved "https://github.com/maestrano/mno-enterprise-angular.git#d1885971d9e6ae69394413d297577b3dac2fa237"
+  resolved "https://github.com/iseessel/mno-enterprise-angular.git#5857bd4f268d6c2c4fa5b5c57d6d84513121405c"
 
-"mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
+"mnoe-admin-panel@git+https://git@github.com/iseessel/mnoe-admin-panel.git#1166/add-license-based-pricing":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/maestrano/mnoe-admin-panel.git#7a806a118c3b89c2456d85a88cc7620a64c103b7"
+  resolved "git+https://git@github.com/iseessel/mnoe-admin-panel.git#d47f77ebc0e75002ea76d92c397f692b34877d12"
