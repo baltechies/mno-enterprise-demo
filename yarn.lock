@@ -12,4 +12,4 @@
 
 "mnoe-admin-panel@git+https://git@github.com/adamaziz15/mnoe-admin-panel.git#uat/1088-186-quotes-and-licenses":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/adamaziz15/mnoe-admin-panel.git#341d8ed994c170b7174314c0a3266abb086604dd"
+  resolved "git+https://git@github.com/adamaziz15/mnoe-admin-panel.git#787353a0cd5da3208d97e60f1e68d23ee4a983a8"
