@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/RidaAhmad/mno-enterprise
-  revision: aa572f6b706e7278db3396daf607657208e0a300
+  revision: 1ad2aa6d3c68e4b903ee6a321e5f68358cb898a5
   branch: mnoe-1135
   specs:
     mno-enterprise (4.0.0.pre.dev)
