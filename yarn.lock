@@ -8,7 +8,7 @@
 
 "mno-enterprise-angular@https://github.com/MAhsenArif/mno-enterprise-angular.git#mnoe_1183_sync_status_workaround":
   version "2.0.0-dev"
-  resolved "https://github.com/MAhsenArif/mno-enterprise-angular.git#a7f6208ba9d0e432c1737c0150c925a1e8252824"
+  resolved "https://github.com/MAhsenArif/mno-enterprise-angular.git#7e13f8211a881ddb0bb1a6b1832eb7aa0e1b36ba"
 
 "mnoe-admin-panel@git+https://git@github.com/maestrano/mnoe-admin-panel.git#2.0":
   version "2.0.0-dev"
