@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/paulstuartparker/mno-enterprise
-  revision: 25987634429b58e5944b1524e2e43fa483057157
+  revision: f1382f3d9a77d18d7a5a9a2e6a39332359113f11
   branch: feature/MNOE-1088-quote-based-pricing
   specs:
     mno-enterprise (4.0.0.pre.dev)
