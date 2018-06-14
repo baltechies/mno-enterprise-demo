@@ -1179,34 +1179,6 @@ body {
   }
 }
 
-dashboard-company-cart {
-  .company-cart {
-    position: absolute;
-    right: 300px;
-    width: @dashboard-cart-width;
-    height: @dashboard-cart-height;
-    background-color: @dashboard-cart-bg-color;
-    font-size: @dashboard-cart-text-size;
-    border-left: 1px solid @dashboard-cart-border-color;
-    border-bottom: 1px solid @dashboard-cart-border-color;
-    z-index: 999;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-
-    a {
-      &:hover {
-        text-decoration: none;
-      }
-    }
-
-    i {
-      font-size: 37px;
-      vertical-align: bottom;
-    }
-  }
-}
-
 #app-dock-container {
   position: absolute;
   left: 0;
@@ -1487,6 +1459,34 @@ ul.dock > li.prev img.app-logo {
 
     .add-app {
       color: @mno-dock-mobile-add-app-color;
+    }
+  }
+}
+
+dashboard-company-cart {
+  .company-cart {
+    position: absolute;
+    right: 300px;
+    width: @dashboard-cart-width;
+    height: @dashboard-cart-height;
+    background-color: @dashboard-cart-bg-color;
+    font-size: @dashboard-cart-text-size;
+    border-left: 1px solid @dashboard-cart-border-color;
+    border-bottom: 1px solid @dashboard-cart-border-color;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    a {
+      &:hover {
+        text-decoration: none;
+      }
+    }
+
+    i {
+      font-size: 37px;
+      vertical-align: bottom;
     }
   }
 }
@@ -2433,6 +2433,12 @@ form.editable-wrap .editable-controls input {
   padding-left: 5px;
 }
 
+#account {
+  .row:not(:first-child) {
+    margin-top: 15px;
+  }
+}
+
 #dashboard-apps-list {
   .app-dashboard {
     min-height: 280px;
@@ -2525,12 +2531,6 @@ form.editable-wrap .editable-controls input {
   }
 }
 
-#account {
-  .row:not(:first-child) {
-    margin-top: 15px;
-  }
-}
-
 .dashboard-apps-management {
   .apps-wrapper {
     border: 1px solid @dashboard-app-management-border-color;
@@ -2563,6 +2563,15 @@ form.editable-wrap .editable-controls input {
   .app-info {
     span, strong {
       display: block;
+    }
+  }
+}
+
+#impac {
+  impac-dashboard.with-dock {
+    @media(min-width: @screen-md-min) {
+      display: block;
+      .top-buffer-4;
     }
   }
 }
@@ -2732,15 +2741,6 @@ form.editable-wrap .editable-controls input {
 
 .team-member-add-modal table tr td:last-child {
   text-align: left;
-}
-
-#impac {
-  impac-dashboard.with-dock {
-    @media(min-width: @screen-md-min) {
-      display: block;
-      .top-buffer-4;
-    }
-  }
 }
 
 //-------------------------------
