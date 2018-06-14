@@ -8,7 +8,7 @@
 
 "mno-enterprise-angular@https://github.com/adamaziz15/mno-enterprise-angular.git#uat/1088-186-quotes-and-licenses":
   version "2.0.0-dev"
-  resolved "https://github.com/adamaziz15/mno-enterprise-angular.git#06fc574b70ab9a9abc6ccac99d8806ac4ccb5483"
+  resolved "https://github.com/adamaziz15/mno-enterprise-angular.git#9f08234078679ab7b0d4ee311d2bf328b7565022"
 
 "mnoe-admin-panel@git+https://git@github.com/adamaziz15/mnoe-admin-panel.git#uat/1088-186-quotes-and-licenses":
   version "2.0.0-dev"
