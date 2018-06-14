@@ -1,7 +1,7 @@
 GIT
-  remote: https://github.com/maestrano/mno-enterprise
-  revision: b36735c2a3b3f15bd3396429b7102b600a385f09
-  branch: 4.0
+  remote: https://github.com/MAhsenArif/mno-enterprise
+  revision: 06637db7d7f71e4f383e45b4a41e5ca7ea857638
+  branch: mnoe_1183_guard_checks_connec
   specs:
     mno-enterprise (4.0.0.pre.dev)
       mno-enterprise-api (= 4.0.0.pre.dev)
