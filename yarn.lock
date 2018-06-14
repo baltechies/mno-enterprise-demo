@@ -8,8 +8,8 @@
 
 "mno-enterprise-angular@https://github.com/iseessel/mno-enterprise-angular.git#1166/max-licenses-ui-improvements":
   version "2.0.0-dev"
-  resolved "https://github.com/iseessel/mno-enterprise-angular.git#d149d771051db753b9c3e53d43bb20da8c0617d1"
+  resolved "https://github.com/iseessel/mno-enterprise-angular.git#003b9f85a58279feae084316fc3bfd2ba880d81f"
 
 "mnoe-admin-panel@git+https://git@github.com/iseessel/mnoe-admin-panel.git#1166/add-license-based-pricing":
   version "2.0.0-dev"
-  resolved "git+https://git@github.com/iseessel/mnoe-admin-panel.git#50d4554f77b9ed0f9789968b748bebe8ba9a3074"
+  resolved "git+https://git@github.com/iseessel/mnoe-admin-panel.git#cd4d9d12962986ff91654168df24aa59e7b2f197"
